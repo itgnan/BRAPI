@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BREmployeeAPI", "BREmployeeAPI\BREmployeeAPI.csproj", "{DA7B7080-85CE-425C-92C3-AF346F63BD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.DataAccess", "Product.DataAccess\Product.DataAccess.csproj", "{C32AC776-EDCA-4591-B7E0-71A1D452D48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7B7080-85CE-425C-92C3-AF346F63BD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7B7080-85CE-425C-92C3-AF346F63BD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7B7080-85CE-425C-92C3-AF346F63BD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7B7080-85CE-425C-92C3-AF346F63BD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32AC776-EDCA-4591-B7E0-71A1D452D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32AC776-EDCA-4591-B7E0-71A1D452D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32AC776-EDCA-4591-B7E0-71A1D452D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32AC776-EDCA-4591-B7E0-71A1D452D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607DC60B-857A-4067-87BC-13968037654E}
+	EndGlobalSection
+EndGlobal
