@@ -9,7 +9,7 @@ namespace Product.DataAccess
 
         public ProductDBContext(DbContextOptions<ProductDBContext> options) : base (options)
         {
-            
+            // Adding Comment here
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -16,5 +16,7 @@ namespace Product.DataAccess.Models
         public string Name { get; set; }
         public decimal Price { get; set; }
         public string FullName { get; set; }
+
+        // New Comment
     }
 }
